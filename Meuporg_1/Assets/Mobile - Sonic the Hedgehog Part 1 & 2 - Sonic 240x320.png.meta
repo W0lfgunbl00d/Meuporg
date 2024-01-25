@@ -1,0 +1,2098 @@
+fileFormatVersion: 2
+guid: 0e6e335085dc1274496f9b265ee44771
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a8a0f3c54ea1a47a04764049681eec
+      internalID: -243261653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 337
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ea1f440b73c242a260617f5226d8f
+      internalID: 2060889831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 337
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce127af3729a9c4da83b59ffb9596c4
+      internalID: 1583996446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 337
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470eecfcaa734674f88be888054bd75e
+      internalID: 1970187253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 337
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610e3847c5b30be42b8dc71ea926ecb9
+      internalID: 133708882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 337
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442487ee8daa54f46b1c62897f8cc9aa
+      internalID: 1006525813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 337
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5648eae91aac4e419ade84771760c86
+      internalID: 1681220292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 337
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b73206de3ac692498a757bc37bd4b7f
+      internalID: 1721558920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 337
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ea669f35cad354bae10398902579a8
+      internalID: -1589936991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 337
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb45f2f9dfc3e3d4896289dfe844fc47
+      internalID: 657359727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0892f6fd85b2d8e4ba991aab16673562
+      internalID: 1192381910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 338
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1958e98a5866b498094a9c47bfd2c6
+      internalID: 1910358765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 297
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed359cdc0d923e64d87d7b9d819eda39
+      internalID: 302269295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 297
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eea15033aad21b488c0a24c0b7847bf
+      internalID: -706363302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 297
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978f950bde47be94780210512205537f
+      internalID: -1348937023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 297
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81740a596b08796498ae282974601be2
+      internalID: -1351606156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 297
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c9b8ca424740a4b83bbbde97d08923
+      internalID: 785344086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 298
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07b9901d3b524c468dbefc99cf1e40c
+      internalID: 2095037525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 252
+        width: 31
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232645482785c9a41a10fcf4af5857c0
+      internalID: -1946335329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 257
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca5bdf2407192440b1f1acefafd3dec
+      internalID: -891119132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 297
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fe0bf9d26471d4cb02dc5d01314625
+      internalID: 2067389283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 297
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecb8f685ac0dcf4b8604a7a96e73e4a
+      internalID: 2086194015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 257
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f8e702201b46946b7d41bc6a850767
+      internalID: 841421406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 257
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe7df301cd511e42a7e297619eafe99
+      internalID: 1696701272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb5e73a21b493d448d16a01e8ee9c62
+      internalID: 39215028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 259
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6944345ef56106e4dbf0a67f8c1b6388
+      internalID: 1904697336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 258
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c214bb2e9b2824b9764a63f10c2dac
+      internalID: 614984680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 256
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9365dbf32464cb4d991aa069ce9e259
+      internalID: 1700332756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 257
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9bd79358d8c04db1cb324bd4753b9
+      internalID: 67759893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 257
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd98ed4a5ae4dc4da2c7ade39444c83
+      internalID: -1382841346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fb22f10825ca34ea768434896adabb
+      internalID: -810131004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 234
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba8ae26105ddb44d837cbc08c5f54a8
+      internalID: 2059812314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 234
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d34085b1e5abcd4a8c2cbbd432e16d5
+      internalID: 1236656752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 221
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe6c6aa48dfe4d489b60fde9a45ea58
+      internalID: 1076602642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 220
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac2d53d14a246340bac530d8fdabf35
+      internalID: 1484189474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 217
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b646dc3cb09214883560d55a176993
+      internalID: 1527403476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 217
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827831d58b650c647a4b6daaa338662f
+      internalID: 346620625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 217
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37684796962ddf3489586efb0ee0b1d6
+      internalID: 1985570630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 217
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8866816b1b6c951409e169ca85963473
+      internalID: 1006689353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 173
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad7bb8b33c4464b844b0d11e2479ee
+      internalID: -1395610016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 173
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56b54566e6afa9468e8fb49054ccb4a
+      internalID: 1767368382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 173
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa26c290ced5c84bba3d2339780354b
+      internalID: -623289941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 173
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2982ddc964c0ae340b3a198dcfd4afe3
+      internalID: -48219168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 173
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4604285e1471c1f41b78b33bc0bc3e5b
+      internalID: -1919891476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 173
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0612baa00aef4d8e5bd9cf910a1f7
+      internalID: 1742133793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 173
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0997398634d854dad23ffb3bfa3f50
+      internalID: 125630770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 174
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca86ef9234952478b687fbe6003a52
+      internalID: -1160448014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_47
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 174
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c370940da44847b6c50e5ad698ef1
+      internalID: 272892199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_48
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 174
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848eff46ba157054eaf853f6516f0ee6
+      internalID: 1064882400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_49
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 195
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ce1e7db46ea54484af18d1285c341
+      internalID: -1890401823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 46
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1390531101bad2341972606fefc1792d
+      internalID: -259500346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 174
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b6d77a84d60f54694c83a4b06b62dd
+      internalID: 807088391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 125
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8540c66c6c9a2a2408ab3b5627d32e39
+      internalID: 641490588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 125
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e70193cc58934091658ea5716d739
+      internalID: 304860466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_54
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 125
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970ee7568859164da4fece7d4178f9d
+      internalID: -1221398567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_55
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 125
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e0d28c4172744ba608d412cfcbc83
+      internalID: 1164918481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 93
+        width: 144
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a2cdf2024d2149add0a9cd6144044
+      internalID: -597156962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 54
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda21dfbec81ea4ca1f5c9f7ad5229b
+      internalID: 1845417123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_58
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 49
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3d69de45d22874e8f659f43623c0c1
+      internalID: -1312868520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_59
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 53
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea98d107ac571b7479fbac1ef7478855
+      internalID: -1767535040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_60
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 53
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e03c60fc47f9428686535c7cbdf9b
+      internalID: 542899502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_61
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 49
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe44a55d62e0eb4083a32098966859a
+      internalID: -1465500532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 51
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a05a597bf09fc498cf0505e808559b
+      internalID: 1815212878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_63
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 53
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e22f7662c67e54d8d838e83dbb377a
+      internalID: -1759523964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_64
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 53
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8b8a0815373249bc561b67c91ecc7
+      internalID: 808663112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_65
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 53
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a57121abaca4aa4ead8831e0292eed9
+      internalID: 36190044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_66
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 53
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65296d715eb5e4aa9bb3a06fa1d18f
+      internalID: -81073724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_67
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 53
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f618ce76fddf7c44883af4ca1f013bc9
+      internalID: 1357086341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_68
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 51
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f415c013757806f44a6a9589637ca871
+      internalID: -31097386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_69
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 28
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9537d0a2e9b6cf47b49e1529080e6db
+      internalID: -1911068284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 28
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23180c0cbfa62c84f98078e5ec06bafa
+      internalID: 42845940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_71
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 28
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969cbab2fa3577943bb189c108ee37b8
+      internalID: 890389645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_72
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 24
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117769013b805a8409504626d8d03f8f
+      internalID: -212201661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_73
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 30
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cba0ffa2594aba41a4bb958af3ef397
+      internalID: 1039445773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 30
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07194ddfb0fbeea41b35e38e1c6be7b4
+      internalID: -24071369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_75
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 30
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabc783e646199348a8ba7a93b41814b
+      internalID: 265408811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_76
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 29
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b7b6060333b434caef8d418c989e3d
+      internalID: 1360193864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_77
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cfd1745b3f30a479b2cb45f8dfa882
+      internalID: -184925118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_78
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 29
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf88b113288f01244a3350c5bb81d556
+      internalID: -2064122206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_79
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 29
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce98b24d27487b4eb5765689e8b776e
+      internalID: 593884325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_80
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41dfb67381800a49888c768191539ac
+      internalID: -1380439031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb1c25996569604591a24fc7fbdcf2a
+      internalID: 1109385013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_82
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5005dbc46e83d15419e39b724489beec
+      internalID: 2113343398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_83
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5d489cc5bf62c4eb90853ee298e244
+      internalID: 417235349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_84
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f5d9adef89bb41a0957495873ad7c
+      internalID: -1037039293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_85
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae6a0e29ac6b2f40a33add79d44b651
+      internalID: -366960530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_86
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d817c73c7bb1d41abc8a2df5884899
+      internalID: -587427135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_87
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5e2884dd359c4482332b7cbc09048
+      internalID: 1740054708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_88
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 296
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0045ebcf9cfbc31418b47216a7a5668f
+      internalID: -1547586594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_0: -243261653
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_1: 2060889831
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_10: 1192381910
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_11: 1910358765
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_12: 302269295
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_13: -706363302
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_14: -1348937023
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_15: -1351606156
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_16: 785344086
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_17: 2095037525
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_18: -1946335329
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_19: -891119132
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_2: 1583996446
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_20: 2067389283
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_21: 2086194015
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_22: 841421406
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_23: 1696701272
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_24: 39215028
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_25: 1904697336
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_26: 614984680
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_27: 1700332756
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_28: 67759893
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_29: -1382841346
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_3: 1970187253
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_30: -810131004
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_31: 2059812314
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_32: 1236656752
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_33: 1076602642
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_34: 1484189474
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_35: 1527403476
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_36: 346620625
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_37: 1985570630
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_38: 1006689353
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_39: -1395610016
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_4: 133708882
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_40: 1767368382
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_41: -623289941
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_42: -48219168
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_43: -1919891476
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_44: 1742133793
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_45: 125630770
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_46: -1160448014
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_47: 272892199
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_48: 1064882400
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_49: -1890401823
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_5: 1006525813
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_50: -259500346
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_51: 807088391
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_52: 641490588
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_53: 304860466
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_54: -1221398567
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_55: 1164918481
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_56: -597156962
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_57: 1845417123
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_58: -1312868520
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_59: -1767535040
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_6: 1681220292
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_60: 542899502
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_61: -1465500532
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_62: 1815212878
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_63: -1759523964
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_64: 808663112
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_65: 36190044
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_66: -81073724
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_67: 1357086341
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_68: -31097386
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_69: -1911068284
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_7: 1721558920
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_70: 42845940
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_71: 890389645
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_72: -212201661
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_73: 1039445773
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_74: -24071369
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_75: 265408811
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_76: 1360193864
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_77: -184925118
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_78: -2064122206
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_79: 593884325
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_8: -1589936991
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_80: -1380439031
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_81: 1109385013
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_82: 2113343398
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_83: 417235349
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_84: -1037039293
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_85: -366960530
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_86: -587427135
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_87: 1740054708
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_88: -1547586594
+      Mobile - Sonic the Hedgehog Part 1 & 2 - Sonic 240x320_9: 657359727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,6 +7,7 @@ public class SonicScript : MonoBehaviour
 {
     private Rigidbody2D sonicRigidbody;
     public int speedCoeff = 10;
+    public int scale = 5;
 
     private void Awake()
     {
@@ -24,11 +25,24 @@ public class SonicScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        sonicRigidbody.velocity = new Vector2(Input.GetAxis("Horizontal") * speedCoeff, sonicRigidbody.velocity.y);
+        float horizontalInput = Input.GetAxis("Horizontal");
 
-        if (Input.GetKey(KeyCode.Space))
-        {
+
+        // sonic direction
+        if (horizontalInput > 0.01f)
+            transform.localScale = Vector3.one * scale;
+
+        else if (horizontalInput < -0.01f)
+            transform.localScale = new Vector3(-1 * scale, scale, scale);
+
+        // sonic movement
+        sonicRigidbody.velocity = new Vector2(horizontalInput * speedCoeff, sonicRigidbody.velocity.y);
+
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (Input.GetKey(KeyCode.Space) && collision.gameObject.tag == "ground")
             sonicRigidbody.velocity = new Vector2(sonicRigidbody.velocity.x, speedCoeff);
-        }
     }
 }
