@@ -6,12 +6,14 @@ using UnityEngine;
 public class SonicScript : MonoBehaviour
 {
     private Rigidbody2D sonicRigidbody;
+    private Animator anime;
     public int speedCoeff = 10;
     public int scale = 5;
 
     private void Awake()
     {
         sonicRigidbody = GetComponent<Rigidbody2D>();
+        anime = GetComponent<Animator>();
     }
 
 
@@ -37,7 +39,7 @@ public class SonicScript : MonoBehaviour
 
         // sonic movement
         sonicRigidbody.velocity = new Vector2(horizontalInput * speedCoeff, sonicRigidbody.velocity.y);
-
+        anime.SetBool("running", horizontalInput != 0);
     }
 
     private void OnCollisionStay2D(Collision2D collision)
@@ -45,4 +47,5 @@ public class SonicScript : MonoBehaviour
         if (Input.GetKey(KeyCode.Space) && collision.gameObject.tag == "ground")
             sonicRigidbody.velocity = new Vector2(sonicRigidbody.velocity.x, speedCoeff);
     }
+
 }
