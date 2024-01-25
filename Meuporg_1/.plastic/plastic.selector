@@ -1,0 +1,4 @@
+repository "Meuporg_1@Wolfgunbl00d@cloud"
+  path "/"
+    br "/main"
+    co "/main"
