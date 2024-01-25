@@ -39,7 +39,7 @@ public class SonicScript : MonoBehaviour
 
         // sonic movement
         sonicRigidbody.velocity = new Vector2(horizontalInput * speedCoeff, sonicRigidbody.velocity.y);
-        anime.SetBool("running", horizontalInput != 0);
+        anime.SetBool("run", horizontalInput != 0);
     }
 
     private void OnCollisionStay2D(Collision2D collision)
