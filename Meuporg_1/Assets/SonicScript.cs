@@ -44,8 +44,13 @@ public class SonicScript : MonoBehaviour
 
     private void OnCollisionStay2D(Collision2D collision)
     {
-        if (Input.GetKey(KeyCode.Space) && collision.gameObject.tag == "ground")
+        if (Input.GetKey(KeyCode.Space) && collision.gameObject.tag == "ground") { 
             sonicRigidbody.velocity = new Vector2(sonicRigidbody.velocity.x, speedCoeff);
+            anime.SetBool("airborn", true); 
+        }
+        else {
+            anime.SetBool("airborn", false); 
+        }
     }
 
 }
